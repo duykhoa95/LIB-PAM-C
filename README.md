@@ -31,4 +31,4 @@
 
 - [Link 5](https://github.com/beatgammit/simple-pam)
 ## Mô hình sequence diagram
-<img src="https://drive.google.com/open?id=0B0cBCSMAtfSAOXJfVlJCRVNveU0">
+- [Link hình ảnh Mô hình sequence diagram](https://drive.google.com/open?id=0B0cBCSMAtfSAOXJfVlJCRVNveU0)
