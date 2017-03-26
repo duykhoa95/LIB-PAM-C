@@ -30,3 +30,5 @@
 - [Link 4](http://ben.akrin.com/?p=1068)
 
 - [Link 5](https://github.com/beatgammit/simple-pam)
+## Mô hình sequence diagram
+<img src="https://drive.google.com/open?id=0B0cBCSMAtfSAOXJfVlJCRVNveU0">
